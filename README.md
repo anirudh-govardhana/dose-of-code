@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -26,6 +27,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0733-flood-fill](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0733-flood-fill/) | Easy |
 ## Hash Table
@@ -55,4 +57,8 @@
 | [0056-merge-intervals](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0088-merge-sorted-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/anirudh-govardhana/dose-of-code/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
